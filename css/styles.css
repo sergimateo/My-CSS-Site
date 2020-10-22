@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  display: block;
+  font-size: 4rem;
+  font-family: 'Shadows Into Light', cursive;
+  color: #66BFBF;
+
+  margin: 0;
+}
+
+h2 {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.subtitle {
+  display: block;
+  font-weight: 600;
+
+}
+.skill-row{
+  margin: 100px auto;
+  width: 50%;
+  text-align: justify;
+  line-height: 2;
+}
+.skill-pic-one{
+  display: block;
+  width: 25%;
+
+
+}
+.skill-pic-two{
+  display: block;
+  width: 100px;
+  margin:0 auto;
+  align-content: center;
+}
+.contact-pic{
+  width: 50px;
+}
+p {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #effcef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.profile-pic {
+  margin-top: 2rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+hr {
+  background-color: #290001;
+}
+
+.middle-container {
+  background-color: #f1f1b0;
+}
+
+.bottom-container {
+  background-color: #ffd369;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
